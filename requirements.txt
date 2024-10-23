@@ -1,7 +1,6 @@
-streamlit
-python-dotenv
-requests
-openai
-#pdf2image
-pillow
-pymupdf
+streamlit==1.32.0
+pillow==10.2.0
+pymupdf==1.23.8
+python-dotenv==1.0.1
+anthropic==0.18.0
+requests==2.31.0
